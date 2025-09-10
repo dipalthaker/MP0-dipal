@@ -1,5 +1,5 @@
-require('./css/main.css');
-require('./js/index.js');
+require('./main.css');
+require('./index.js');
 
 
 document.addEventListener("DOMContentLoaded", function () {
